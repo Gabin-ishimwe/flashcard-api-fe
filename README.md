@@ -5,7 +5,7 @@ Flash card application is a small personal project i built for myself to help me
 
 ## Demo
 
-[https://flashcard-fe-xi.vercel.app/]([url](https://flashcard-fe-xi.vercel.app/))
+[Flashcard App]([url](https://flashcard-fe-xi.vercel.app/))
 
 
 ## Run Locally
