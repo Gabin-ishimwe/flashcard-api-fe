@@ -1,8 +1,11 @@
 
 # Flash Card application
 
-Flash card application is a small personal project i built for myself to help me learn by making different flashcards of topics to revise afterclass.
+Flash card application is a small personal project i built for myself to help me learn by making different flashcards of topics to revise afterclass. i did this project to level up my skills in typescript and graphql
 
+## Demo
+
+[https://flashcard-fe-xi.vercel.app/]([url](https://flashcard-fe-xi.vercel.app/))
 
 
 ## Run Locally
