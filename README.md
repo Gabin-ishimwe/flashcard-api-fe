@@ -13,7 +13,7 @@ Flash card application is a small personal project i built for myself to help me
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/Gabin-ishimwe/flashcard-api-fe.git
 ```
 
 Go to the project directory
