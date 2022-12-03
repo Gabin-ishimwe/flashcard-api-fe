@@ -10,7 +10,7 @@ import {
 import { setContext } from "@apollo/client/link/context";
 
 const httpLink = createHttpLink({
-  uri: "https://graphql-flashcard-api.herokuapp.com/graphql",
+  uri: "https://flashcard-api-production.up.railway.app/graphql",
 });
 
 interface Token {
